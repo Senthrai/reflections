@@ -3,4 +3,10 @@
 
 ---How is the staging area different from the working directory and the repository? What value do you think it offers?
 ///The staging area serves as a temporary platform between the working directory and the respository.
-It keeps the other platforms cleaner. 
+It keeps the other platforms cleaner.
+
+ ---How can you use the staging area to make sure you have one commit per logical change?
+ ///Check the status before committing anything, or maybe there's an option to lock the size of the commit.
+
+ ---What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ ///When adding extra features to a project, it would help to know what was the main project. To maintain the different codes separated.
