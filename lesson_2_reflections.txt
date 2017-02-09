@@ -1,3 +1,6 @@
 ---What happens when you initialize a repository? Why do you need to do it?
 ///Git prepare a hidden directory. To know where the commits will be.
 
+---How is the staging area different from the working directory and the repository? What value do you think it offers?
+///The staging area serves as a temporary platform between the working directory and the respository.
+It keeps the other platforms cleaner. 
