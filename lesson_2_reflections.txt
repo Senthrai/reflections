@@ -1,0 +1,3 @@
+---What happens when you initialize a repository? Why do you need to do it?
+///Git prepare a hidden directory. To know where the commits will be.
+
