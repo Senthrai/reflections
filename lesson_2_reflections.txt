@@ -10,3 +10,10 @@ It keeps the other platforms cleaner.
 
  ---What are some situations when branches would be helpful in keeping your history organized? How would branches help?
  ///When adding extra features to a project, it would help to know what was the main project. To maintain the different codes separated.
+
+ ---How do the diagrams help you visualize the branch structure?
+ ///It gives an image, so it is easier to understand what we went through.
+
+ ---What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ ///It fusions both of the files, creating a new branch with all the commits from both side. 
+ Because it is the right way to represent them.
