@@ -17,3 +17,6 @@ It keeps the other platforms cleaner.
  ---What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  ///It fusions both of the files, creating a new branch with all the commits from both side. 
  Because it is the right way to represent them.
+
+ ---What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ ///Merging automatically is good if we forget about it, while merging manually let us make commits with better logics.
