@@ -8,3 +8,6 @@
 ///Forks : Only to GitHub -> GitHub, clone a repository
    Clones: Can be on local and on GitHub -> Clone a repository, and put a remote on the origin.
    Branches : Nothing to do with the others, a branch is when you want to create something new that is not directly on the branch master.
+
+---What is the benefit of having a copy of the last known state of the remote stored locally?
+///We know what was the last commit we got on our last pull/fetch.
